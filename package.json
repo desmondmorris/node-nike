@@ -1,0 +1,16 @@
+{
+  "name": "nike",
+  "version": "0.0.1",
+  "description": "An unofficial api wrapper for the Nike+ API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desmondmorris/node-nike"
+  },
+  "keywords": [
+    "nike",
+    "fuel"
+  ],
+  "author": "Desmond Morris",
+  "license": "MIT"
+}
