@@ -19,3 +19,8 @@ Notes
 -----
 
 Nike has not officially released access to its authentication services.  Once they do, this module should be updated to get the access token via OAuth.
+
+Todo
+----
+
+* Tests
