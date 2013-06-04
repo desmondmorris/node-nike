@@ -13,7 +13,13 @@ Usage
 
 This module takes a configuration parameter containing the Nike+ access token.
 
-    var nike = require('node-nike')({'access_token': 'XXXXX'}});
+    var Nike = require('./lib/nike');
+    var access_token = 'XXXXX';
+    var nike = new Nike(access_token);
+
+    nike.get(function(err, data) {
+      console.log(data);
+    });
 
 Notes
 -----
