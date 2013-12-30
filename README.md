@@ -1,6 +1,8 @@
 Nike+ API client library for node.js
 ====================================
 
+[![NPM](https://nodei.co/npm/nike.png?compact=true)](https://nodei.co/npm/nike/)
+
 An unofficial api wrapper for the Nike+ API written in node.js.
 
 Install
