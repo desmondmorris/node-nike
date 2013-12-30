@@ -6,7 +6,7 @@ An unofficial api wrapper for the Nike+ API written in node.js.
 Install
 -------
 
-    npm install node-nike
+    npm install nike
 
 Usage
 -----
